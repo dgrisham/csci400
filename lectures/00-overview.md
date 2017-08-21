@@ -24,16 +24,11 @@ Who am I?
 Why am I teaching PL?
 ---------------------
 
-Good question...
-
-(also, `alias PL='Programming Languages'`)
-
-Why am I teaching PL?
----------------------
-
 -   Took PL in 2014
 -   Previous prof. (Cyndi Rader) retired
 -   Experience/enjoyment
+
+(also, `alias PL='Programming Languages'`)
 
 Why are you taking PL?
 ----------------------
