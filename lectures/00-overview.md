@@ -19,7 +19,7 @@ Who am I?
 -   Master's student under DJ Yang
     -   Distributed systems, game theory
 -   Member of Protocol Labs
-    -   IPFS, Filecoin
+    -   [IPFS](https://www.youtube.com/watch?v=HUVmypx9HGI), Filecoin
 
 Why am I teaching PL?
 ---------------------
