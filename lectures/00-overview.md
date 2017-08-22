@@ -297,11 +297,16 @@ Language Categories
 Conclusion
 ==========
 
+Important things
+----------------
+
+-   Course 'website'
+    -   <https://github.com/dgrisham/csci400>
+-   Syllabus: coming soon
+
 Links
 -----
 
--   Juan Benet: *IPFS: The Distributed Web*
-    -   <https://www.youtube.com/watch?v=HUVmypx9HGI>
 -   Paul Graham: *Being Popular*
     -   <http://www.paulgraham.com/popular.html>
 -   Brett Victor: *The Future of Programming*
