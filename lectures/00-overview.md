@@ -6,6 +6,8 @@ theme: Amsterdam
 header-includes:
     -   \usecolortheme[dark]{solarized}
     -   \usepackage{graphicx}
+    -   \usepackage{color}
+    -   \newcommand{\link}[1]{\textcolor{magenta}{#1}}
     -   \newcommand{\ra}{\ensuremath\rightarrow\ }
     -   \newcommand{\blank}[1]{{\usebeamercolor[bg]{solarized}#1}}
     -   \newcommand{\light}[1]{\textcolor{lightgray}{#1}}
@@ -26,7 +28,7 @@ Who am I?
 -   Master's student under DJ Yang
     -   Distributed systems, game theory
 -   Member of Protocol Labs
-    -   [IPFS](<https://www.youtube.com/watch?v=HUVmypx9HGI>), Filecoin
+    -   [\link{IPFS}](<https://www.youtube.com/watch?v=HUVmypx9HGI>), Filecoin
 
 Why am I teaching PL?
 ---------------------
@@ -73,9 +75,9 @@ PL Concepts
 -----------
 
 -   Syntax & features decisions
--   Code reuse, polymorphism
+-   Code reuse, polymorphism (DRY)
 -   Error handling
--   [***Type system***](https://en.wikipedia.org/wiki/Type_system)
+-   [\link{Type system}](https://en.wikipedia.org/wiki/Type_system)
 -   Meta-programming
 
 Exploring Languages (Example Criteria)
@@ -117,7 +119,7 @@ Language Evaluation Criteria
 
 What kind of criteria do you use to evaluate/choose a language?
 
-[Categories of programming languages (link)](https://en.wikipedia.org/wiki/List_of_programming_languages_by_type)
+[\link{Categories of programming languages}](https://en.wikipedia.org/wiki/List_of_programming_languages_by_type)
 
 Example Criteria
 -----------------
@@ -144,10 +146,12 @@ Orthogonality
 -------------
 
 -   Small set of primitive constructs + ways of combining them
--   Every syntactically correct combination is legal
-    -   C: Arrays, `void` (both have 'illegal' cases)
--   No side-effects
-    -   Changing one thing has no effect on another
+    -   E.g. variable assignment, `if`, `for`, ...
+    -   Every syntactically correct combination is legal
+    -   Meaning of a feature is independent of context
+-   Example of non-orthogonality in `C`
+    -   Arrays: Cannot be returned from a function
+    -   `void`: Cannot be type of array element
 
 Orthogonality
 -------------
@@ -215,7 +219,7 @@ Design Tradeoffs
 -   **Reliability** vs. **cost of execution**
     -   E.g. memory/type safety
 -   **Readability** vs. **writeability**
-    -   E.g. [APL (link)](https://en.wikipedia.org/wiki/APL_(programming_language)#.22Pick_6.22_lottery_numbers)
+    -   E.g. [\link{APL}](https://en.wikipedia.org/wiki/APL_(programming_language)#.22Pick_6.22_lottery_numbers)
 -   **Flexibility** vs. **reliability**
     -   Pointers, types (`NULL`)
 
@@ -276,7 +280,7 @@ Influences: Programming Methodologies
 *60s*      People-efficiency: Readability, control structures
 *70s*      Process- to data- oriented
 *80s*      Object oriented
-*90s-Now*  Functional
+*90s-Now*  Functional, Concurrent
 
 Language Categories
 -------------------
