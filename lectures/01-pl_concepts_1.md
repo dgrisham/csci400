@@ -321,10 +321,14 @@ Unconditional Branching
 -   Transfers execution control to specified place in program
 -   Topic of one of the most heated debates in 1960s/70s
 -   Well-known mechanism: `goto`
-    -   Major concern: Readability
+    -   Concern: Readability, reliability (maintenance)
     -   Most modern languages do not have `goto`
 -   Languages with `goto`
     -   Assembly languages, C
     -   C# -- limited to `switch` statements
 
+Links
+-----
+
+-   [Dijkstra on the harm of `goto`](http://www.u.arizona.edu/~rubinson/copyright_violations/Go_To_Considered_Harmful.html)
 
