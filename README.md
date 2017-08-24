@@ -9,7 +9,7 @@ pull it for updates.
 
 ## Slides
 
-The [slides] can be viewed on Github -- however, Github renders the
+The [slides](slides) can be viewed on Github -- however, Github renders the
 `slides.pdf` files as images, so you won't be able to highlight text or click
 any of the links. The easiest thing to do would be to clone the repo and run
 your own PDF viewer on your local copies of the slides. Otherwise, you can open
@@ -19,7 +19,7 @@ fairly ugly.
 
 ## Class-exercises
 
-The [class_exercises] files will be Markdown files that Github can render nicely
+The [class_exercises](class_exercises) files will be Markdown files that Github can render nicely
 for you, so it's best to view them in Github itself. These files will also
 include links to other files in this repository, which will also be work well
 within Github. You can also view these (and any of the `.md` files) in a regular
