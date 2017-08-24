@@ -1,7 +1,7 @@
 ---
 title: Language Principles
 subtitle: CSCI 400 -- Lecture 1
-author: David Grisham
+author: Colorado School of Mines
 date: 24 August 2017
 theme: Amsterdam
 ...
@@ -149,7 +149,7 @@ Definitions
 
 -   \kwd{Strong typing}
     -   Generally, \hli{compiler error} if value does not meet expected type
-    -   \hl{Dynamically typed language}: might be considered strongly typed if
+    -   \hl{Dynamically typed language:} might be considered strongly typed if
         type errors are \hli{prevented at runtime}
 -   \kwd{Weak typing} 
     -   Types can be used interchangeably
@@ -230,8 +230,8 @@ Type Safety
 Explicit vs. Implicit
 ---------------------
 
--   \kwd{Explicit}: stated by programmer
--   \kwd{Implicit}: determined by language
+-   \kwd{Explicit:} stated by programmer
+-   \kwd{Implicit:} determined by language
 -   Contexts
     -   Type declaration
     -   Variable lifetime
@@ -282,8 +282,8 @@ Keywords vs. Reserved Words
 
 -   \hl{Can't be used as variable name}
 -   COBOL has ~400, Java has ~50
--   \hl{Advantage}: May avoid confusion
--   \hl{Disadvantage}: Awareness of language parts you aren't even using
+-   \hl{Advantage:} May avoid confusion
+-   \hl{Disadvantage:} Awareness of language parts you aren't even using
 
 Keywords vs. Reserved Words
 ---------------------------

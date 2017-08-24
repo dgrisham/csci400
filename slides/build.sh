@@ -15,6 +15,7 @@ build() {
     pandoc --standalone --filter=pandoc-citeproc \
            --from=markdown --to=beamer \
            --latex-engine=xelatex -H header.tex \
+           --highlight-style breezedark \
            --output="${md_doc%.*}.pdf" "$md_doc" \
         || echo "pandoc error ..."
 }
