@@ -4,25 +4,6 @@ subtitle: CSCI 400 -- Lecture 1
 author: David Grisham
 date: 24 August 2017
 theme: Amsterdam
-header-includes:
-    -   \usecolortheme[dark]{solarized}
-    -   \usepackage{color}
-    -   \newcommand{\link}[1]{\textcolor{magenta}{#1}}
-    -   \newcommand{\kwd}[1]{{\bf\textcolor{white}{#1}}}
-    -   \newcommand{\hli}[1]{{\it\textcolor{white}{#1}}}
-    -   \newcommand{\hl}[1]{{\textcolor{white}{#1}}}
-    -   \newcommand{\q}[1]{{\textcolor{yellow}{#1}}}
-    -   \newcommand{\notecolor}[1]{\textcolor{green}{#1}}
-    -   \newcommand{\Note}[1]{{\Noteref\notecolor{#1}}}
-    -   \newcommand{\Noteref}{\notecolor{\textsuperscript{*}}}
-    -   \newcommand{\comment}[1]{\small{\notecolor{#1}}}
-    -   \newcommand{\ra}{\ensuremath\rightarrow\ }
-    -   \newcommand{\blank}[1]{{\usebeamercolor[bg]{solarized}#1}}
-    -   \newcommand{\light}[1]{\textcolor{lightgray}{#1}}
-    -   \newcommand{\faded}[2][35]{\color{bg!#1}#2}
-    -   \newcommand{\graphicw}[2]{\center \includegraphics[width=#2]{#1}}
-    -   \newcommand{\graphiccw}[3]{\begin{figure}\center
-            \includegraphics[width=#2]{#1}\caption{#3}\end{figure}}
 ...
 
 
