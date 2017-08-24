@@ -11,10 +11,9 @@ Preparation
 
 You will be getting started with Ruby on your own.
 
--   Take a look at [\link{the Ruby intro
-    slides}](https://github.com/dgrisham/csci400/slides/ruby/0-intro)
+-   Take a look at [the Ruby intro slides](../../slides/ruby/0-intro/slides.pdf)
 -   As instructed at the end of the slides, play with the
-    [\link{the Ruby basics file}](https://github.com/dgrisham/csci400/class_exercises/ruby/demo-files/ruby_basics.rb)
+    [the Ruby basics file](demo_files/ruby_basics.rb)
 -   If you haven't already, clone the class Git repo
     -   In git bash: `git clone https://github.com/dgrisham/csci400`
     -   All of the lectures, example code, assignments, etc. are hosted here
