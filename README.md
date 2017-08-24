@@ -24,7 +24,7 @@ fairly ugly.
 ## Assignments and Class Exercises
 
 The [assignments](assignments) and [class\_exercises](class_exercises) folders
-contains Markdown files that Github can render nicely for you, so it's best to
+contain Markdown files that Github can render nicely for you, so it's best to
 view them in Github itself. These files will also include links to other files
 in this repository, which will also be work well within Github. You can also
 view these (and any of the `.md` files) in a regular ol' text editor, and they
