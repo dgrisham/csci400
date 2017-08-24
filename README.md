@@ -17,11 +17,11 @@ the source `slides.md` Markdown files where you can copy any of the text/links.
 However, the `slides.md` files will have a lot of embedded Latex and will look
 fairly ugly.
 
-## Class-exercises
+## Assignments and Class-exercises
 
-The [class\_exercises](class_exercises) folder contains Markdown files that
-Github can render nicely for you, so it's best to view them in Github itself.
-These files will also include links to other files in this repository, which
-will also be work well within Github. You can also view these (and any of the
-`.md` files) in a regular ol' text editor, and they will look fairly clean
-(aside from the `slides.md` files, as mentioned above).
+The [assignments](assignments) and [class\_exercises](class_exercises) folders
+contains Markdown files that Github can render nicely for you, so it's best to
+view them in Github itself. These files will also include links to other files
+in this repository, which will also be work well within Github. You can also
+view these (and any of the `.md` files) in a regular ol' text editor, and they
+will look fairly clean (aside from the `slides.md` files, as mentioned above).
