@@ -167,7 +167,7 @@ Type Conversions
 ----------------
 
 -   \hl{Widening} conversions
-    -   Exact or close-approximation to all of vlaues in original type
+    -   Exact or close-approximation to all of values in original type
     -   `byte` \ra `short` \ra `int` \ra `long` \ra `float` \ra `double`
 -   \hl{Narrowing} conversions
     -   Cannot include all values of original type
@@ -181,7 +181,7 @@ Type Conversions: Dangerous?
         uses 8 bits for exponent)
 -   Conversions should be used with care
     -   Warnings should not be ignored
--   \hl{Strongly typed languages minimize type conversions}
+-   \hl{Strongly typed languages minimize implicit type conversions}
 
 Implicit Type Conversions
 -------------------------
@@ -209,7 +209,7 @@ Explore Implicit Conversions
 <https://www.securecoding.cert.org/confluence/pages/viewpage.action?pageId=3416>
 
 -   *Did you know*: C`++` will do an implicit conversion if there is a
-    single-arg constructor that will do the needed conversion
+    single-arg constructor that will do the needed conversion?
 
 
 More on Types
@@ -222,7 +222,7 @@ Type Safety
 -   \kwd{Type error}
     -   Erroneous or undesirable program behavior
     -   Caused by discrepancy between different data types
-    -   e.g. treating an `int` as a `char`
+    -   e.g. passing `int` to function that expects a `string`
 -   \kwd{Type enforcement}
     -   \hli{Static:} compile time
     -   \hli{Dynamic:} runtime
@@ -233,7 +233,7 @@ Explicit vs. Implicit
 -   \kwd{Explicit:} stated by programmer
 -   \kwd{Implicit:} determined by language
 -   Contexts
-    -   Type declaration
+    -   \hl{Type declaration}
     -   Variable lifetime
 
 \comment{Note: These are {\it not} the same as static/dynamic.}
@@ -311,5 +311,8 @@ Unconditional Branching
 Links
 -----
 
--   [Dijkstra on the harm of `goto`](http://www.u.arizona.edu/~rubinson/copyright_violations/Go_To_Considered_Harmful.html)
+-   [Tony Hoare on the harm of `NULL`](https://www.infoq.com/presentations/Null-References-The-Billion-Dollar-Mistake-Tony-Hoare)
+    -   This page might be kind of confusing -- you want the video on the top
+        right
+-   [Edgar Dijkstra on the harm of `goto`](http://www.u.arizona.edu/~rubinson/copyright_violations/Go_To_Considered_Harmful.html)
 
