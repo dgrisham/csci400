@@ -39,14 +39,14 @@ progrmaming.
 Textbooks
 ---------
 
--   Miran Lipovaca, **Learn You a Haskell for Great Good*, Required ([Free
+-   Miran Lipovaca. *Learn You a Haskell for Great Good*. Required ([Free
     online](http://learnyouahaskell.com/))
--   Flanagan & Matsumoto, *The Ruby Programming Language*, Recommended
--   Robert Sebesta, *Concepts of Programming Languages*, Optional
+-   Flanagan & Matsumoto. *The Ruby Programming Language*. Recommended
+-   Robert Sebesta. *Concepts of Programming Languages*. Optional
 
 ### Post-class Recommendation
 
--   Bryan O'Sullivan, Don Stewart, John Goerzen, *Real World Haskell*
+-   Bryan O'Sullivan, Don Stewart, John Goerzen. *Real World Haskell*
 
 Student Evaluation
 ------------------
