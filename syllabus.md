@@ -4,9 +4,9 @@ Syllabus
 Instructor
 ----------
 
--   Name: David Grisham ('David', 'Grish')
--   Office: Brown Building, 282
--   Email: dgrisham(at)mines(dot)edu
+-   *Name*: David Grisham ('David', 'Grish')
+-   *Office*: Brown Building, 282
+-   *Email*: dgrisham(at)mines(dot)edu
 
 ### Office Hours
 
@@ -39,22 +39,22 @@ progrmaming.
 Textbooks
 ---------
 
-Miran Lipovaca, **Learn You a Haskell for Great Good*, Required ([link]http://learnyouahaskell.com/())
-Flanagan & Matsumoto, *The Ruby Programming Language*, Recommended
-Robert Sebesta, *Concepts of Programming Languages*, Optional
+-   Miran Lipovaca, **Learn You a Haskell for Great Good*, Required ([link](http://learnyouahaskell.com/))
+-   Flanagan & Matsumoto, *The Ruby Programming Language*, Recommended
+-   Robert Sebesta, *Concepts of Programming Languages*, Optional
 
 ### Post-class Recommendation
 
-Bryan O'Sullivan, Don Stewart, John Goerzen, *Real World Haskell*
+-   Bryan O'Sullivan, Don Stewart, John Goerzen, *Real World Haskell*
 
 Student Evaluation
 ------------------
 
-Assignments: 45%
-Class participation: 5%
-Exams and Quizzes: 25%
-Projects: 20%
-Language Comparison: 5%
+-   Assignments: 45%
+-   Class participation: 5%
+-   Exams and Quizzes: 25%
+-   Projects: 20%
+-   Language Comparison: 5%
 
 Late Policy
 -----------
