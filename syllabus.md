@@ -4,9 +4,9 @@ Syllabus
 Instructor
 ----------
 
--   **David Grisham ('David', 'Grish')**
+-   Name: David Grisham ('David', 'Grish')
 -   Office: Brown Building, 282
--   dgrisham(at)mines(dot)edu
+-   Email: dgrisham(at)mines(dot)edu
 
 ### Office Hours
 
