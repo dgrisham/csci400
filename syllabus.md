@@ -39,7 +39,8 @@ progrmaming.
 Textbooks
 ---------
 
--   Miran Lipovaca, **Learn You a Haskell for Great Good*, Required ([link](http://learnyouahaskell.com/))
+-   Miran Lipovaca, **Learn You a Haskell for Great Good*, Required ([Free
+    online](http://learnyouahaskell.com/))
 -   Flanagan & Matsumoto, *The Ruby Programming Language*, Recommended
 -   Robert Sebesta, *Concepts of Programming Languages*, Optional
 
