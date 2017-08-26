@@ -80,7 +80,7 @@ policy is a minimum standard; your instructor may decide to augment this policy.
 
 1.  *If the project is an individual effort project*, you are not allowed to
     give code you have developed to another student or use code provided by
-    another student.
+    another student.\
     *If the project is a group project*, you are only allowed to share code with
     your group members.
 2.  You are encouraged to discuss programming projects with other students in
