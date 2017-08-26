@@ -4,9 +4,9 @@ Syllabus
 Instructor
 ----------
 
-**David Grisham ('David', 'Grish')**
-Brown Building, 282
-dgrisham(at)mines(dot)edu
+-   **David Grisham ('David', 'Grish')**
+-   Office: Brown Building, 282
+-   dgrisham(at)mines(dot)edu
 
 ### Office Hours
 
@@ -15,10 +15,10 @@ TBD
 Course Info
 -----------
 
-*CID*: CSCI 400
-*Lecture*: TR, 9:30-10:45
-*Room*: CT B60
-*Website*: <https://github.com/dgrisham/csci400>
+-   *CID*: CSCI 400
+-   *Lecture*: TR, 9:30-10:45
+-   *Room*: CT B60
+-   *Website*: <https://github.com/dgrisham/csci400>
 
 Course Description
 ------------------
