@@ -46,7 +46,7 @@ Textbooks
 
 ### Post-class Recommendation
 
--   Bryan O'Sullivan, Don Stewart, John Goerzen. *Real World Haskell*
+-   Bryan O'Sullivan, Don Stewart, John Goerzen. *Real World Haskell*.
 
 Student Evaluation
 ------------------
