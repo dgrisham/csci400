@@ -122,8 +122,9 @@ Points | Metric
 
 For simplicity of grading, please:
 
--   Name your program `WordGame.rb`
--   Ensure you can run your program from the command line as: `ruby WordGame.rb`
+-   Name your program `word_game.rb`
+-   Ensure you can run your program from the command line as:
+    `ruby word_game.rb`
 
 *Note*: For any assignment which lists 'simplicity of grading' criteria,
 failure to follow the directions *will* result in loss of points. Amount
