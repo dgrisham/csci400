@@ -6,11 +6,17 @@ Instructor
 
 -   **Name**: David Grisham ('David', 'Grish')
 -   **Office**: Brown Building, 282
--   **Email**: dgrisham(at)mines(dot)edu
+-   **Email**: dgrisham@mines.edu
 
 ### Office Hours
 
 TBD
+
+TA/Grader
+---------
+
+-   **Name**: Minh Vu
+-   **Email**: minhtvu@mines.edu
 
 Course Info
 -----------
@@ -19,6 +25,17 @@ Course Info
 -   **Lecture**: TR, 9:30-10:45
 -   **Room**: CT B60
 -   **Website**: <https://github.com/dgrisham/csci400>
+
+Grading
+-------
+
+Percentage | Grade
+:--------: | :---:
+`[90,100]` | A
+`[80,90)`  | B
+`[70,80)`  | C
+`[60,70)`  | D
+`[0,60)`   | F
 
 Course Description
 ------------------
