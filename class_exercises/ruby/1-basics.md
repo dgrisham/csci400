@@ -84,8 +84,9 @@ just `assert_equal.`
 
 *Note*: The hardest part of using Ruby unit tests is that the syntax changed
 after Ruby 1.8. Be sure you have installed a later version of Ruby. Be sure that
-the tests really run. You'll practice this in the Ruby Basics (TODO: link)
-homework. If issues, submit questions on Piazza.
+the tests really run. You'll practice this in the [Ruby
+Basics](../../assignments/ruby/1-ruby_basics.md) homework. If issues, submit
+questions on Piazza.
 
 Submit/Rubric
 -------------

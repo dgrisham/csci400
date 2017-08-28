@@ -32,5 +32,5 @@ Submit/Rubric
 This exercise is worth 4 points.
 
 Points | Metric
------- | ------
+:----: | :-----
 4      | 2 style guidelines with reasonable justification (just put in a bit of thought) (2 pts. each). Posted on Piazza with the `ruby_style` tag.
