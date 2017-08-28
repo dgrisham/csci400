@@ -11,7 +11,7 @@ Preparation
 
 -   Review the class notes
 -   Do some practice tutorials
--   Download [this Ruby code template](supplements/BasicWordGame.rb).
+-   Download [this Ruby code template](src/basic_word_game.rb).
 -   A useful description of symbols:
     <http://www.troubleshooters.com/codecorn/ruby/symbols.htm>
 
@@ -48,7 +48,7 @@ A sample execution of the program is shown below. Your output should
 match this as closely as possible.
 
 ```
-Shownig a couple of word scores
+Showing a couple of word scores
 Score for hello is: 7 (should be 7)
 Score for banana is: 9 (should be 9)
 
