@@ -1,8 +1,8 @@
 ---
+date: 24 August 2017
 title: Language Principles
 subtitle: CSCI 400 -- Lecture 1
 author: Colorado School of Mines
-date: 24 August 2017
 theme: Amsterdam
 ...
 
