@@ -18,31 +18,28 @@ Preparation
 Lesson
 ------
 
-The purpose of this exercise is to practice some specific Ruby syntax
-and functionality. It is not intended as a creative or very realistic
-exercise. I expect that you will be looking at the class slides while
-doing this exercise. This is important because if the instructions say,
-for example, to use an expression modifier, you will want to look at
-slide 5 of ControlFlow.pptx, and if it says to use a conditional return
-value, you'll want to look at slide 4. etc.
+The purpose of this exercise is to practice some specific Ruby syntax and
+functionality. It is not intended as a creative or very realistic exercise. I
+expect that you will be looking at the class slides while doing this exercise.
+This is important because if the instructions say, for example, to use an
+expression modifier, you will want to look at slide 6 of [the control flow
+slides](../../../slides/ruby/1/c-control_flow/slides.pdf), and if it says to use
+a conditional return value, you'll want to look at slide 5, etc.
 
 Note that many of these requirements will be pretty simple, and just
-encourage you to use cool Ruby syntax. The yield statement and unit test
-will potentially take a bit more thought. (and before you ask, I do
-*not* want to list the slides within the template... part of the idea is
-for you to spend some time thinking about and getting to know Ruby, not
-to mindlessly go to one slide and copy that syntax into your program).
+encourage you to use cool Ruby syntax. The `yield` statement and unit test
+will potentially take a bit more thought.
 
 The context of this lesson is creating methods that could be used to
-create a scrabble-like word game. There are two aspects we're
+create a Scrabble-like word game. There are two aspects we're
 addressing:
 
--   calculating a score for a word
--   displaying a "leader board" of the top scores
+-   Calculating a score for a word
+-   Displaying a "leader board" of the top scores
 
 We are *not* creating a complete word game (you will be writing a
-hangman game soon, which will be more fun... but it won't use these
-methods)
+Hangman game soon, which will be more fun... but it won't use these
+methods).
 
 A sample execution of the program is shown below. Your output should
 match this as closely as possible.

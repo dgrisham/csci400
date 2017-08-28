@@ -60,13 +60,13 @@ Review: [Ruby Control Flow](../../slides/ruby/1/b-expressions/slides.pdf). From
 the downloaded files, take a look at
 [ruby_control_flow.rb](demo_files/ruby_control_flow.rb).
 
-Slides 1-9. Part of the popularity of Ruby stems from its expressive syntax.
-Review these slides and play with the code corresponding code, through the
-comment that says \#yield.
+**Slides 1-11**: Part of the popularity of Ruby stems from its expressive
+syntax. Review these slides and play with the code corresponding code, through
+the comment that says \#yield.
 
 Add to your paper:
 
--   Slide 10 asks you to trace the code on the following slides
+-   Slide 12 asks you to trace the code on the following slides
 -   Be ready to discuss with the class when/why yield might be useful
 -   Do the in-class challenge on slide 14
 -   We'll explore blocks in more detail (slide 15) later
