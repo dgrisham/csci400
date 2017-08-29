@@ -32,9 +32,9 @@ enums? to Java enums?
 Lesson: Expressions
 -------------------
 
-Review: Ruby Expressions. From the [Ruby demo files](demo_files) you downloaded
-in the Intro exercise, take a look at
-[ruby_expressions.rb](demo_files/ruby_expressions.rb).
+Review: [Ruby Expressions](../../slides/ruby/1/b-expressions/slides.pdf). From
+the [Ruby demo files](demo_files) you downloaded in the Intro exercise, take a
+look at [ruby_expressions.rb](demo_files/ruby_expressions.rb).
 
 ### Self Test
 
