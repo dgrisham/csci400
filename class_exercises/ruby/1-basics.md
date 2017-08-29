@@ -56,7 +56,7 @@ Explore, no need to record answers, but DO answer every question!
 Control Flow
 ------------
 
-Review: [Ruby Control Flow](../../slides/ruby/1/b-expressions/slides.pdf). From
+Review: [Ruby Control Flow](../../slides/ruby/1/c-control_flow/slides.pdf). From
 the downloaded files, take a look at
 [ruby_control_flow.rb](demo_files/ruby_control_flow.rb).
 
