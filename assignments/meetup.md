@@ -20,9 +20,9 @@ Preparation
     the reports on these events don't tend to be very informative.
 4.  Submit a Pull Request ([how
     to](https://help.github.com/articles/creating-a-pull-request-from-a-fork/))
-    to the course Github repo with your group added to the **Schedule** table
-    below. Leave the Presentation Date column blank; your entry should look
-    something like this:
+    to the course Github repo with your group added to the [Schedule table
+    below](#schedule). Leave the Presentation Date column blank; your entry
+    should look something like this:
 
 Meeting                     | Meeting Date | Presentation Date | Students
 -------                     | :----------: | :---------------: | --------
