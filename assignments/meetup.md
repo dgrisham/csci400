@@ -25,7 +25,7 @@ Preparation
     something like this:
 
 Meeting                     | Meeting Date | Presentation Date | Students
--------                     | ------------ | ----------------- | --------
+-------                     | :----------: | :---------------: | --------
 Boulder Haskell Programmers | 9/6          |                   | Kevin Shields, Bilinda Butcher
 
 You can find more info on how to format tables in Github-flavored Markdown
@@ -48,6 +48,6 @@ Schedule
 --------
 
 Meeting                     | Meeting Date | Presentation Date | Students
--------                     | ------------ | ----------------- | --------
+-------                     | :----------: | :---------------: | --------
 
 
