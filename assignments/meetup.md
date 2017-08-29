@@ -34,6 +34,9 @@ Please keep the formatting of the table fairly clean (e.g. line up the pipe
 separators for each column), but that may get difficult with multiple groups
 pushing at once (not a big deal).
 
+**Please make your pull request with your meetup entry by Sunday, September
+3rd**
+
 Presentation Details
 --------------------
 
