@@ -85,9 +85,9 @@ Hashes
 ```ruby
 colors1 = { :John => "blue", :Dave => "red" }
 colors2 = { "John" => "blue", "Dave" => "red" }
-colors3 = { John: => "blue", Dave: => "red" }
+colors3 = { John: "blue", Dave: "red" }
 
-puts colors3[:Cyndi]
+puts colors3[:John]
 
 colors.each do |key, value|
     puts "#{key}'s favorite color is #{value}"
