@@ -28,10 +28,16 @@ Meeting                     | Meeting Date | Presentation Date | Students
 -------                     | ------------ | ----------------- | --------
 Boulder Haskell Programmers | 9/6          |                   | Kevin Shields, Bilinda Butcher
 
+You can find more info on how to format tables in Github-flavored Markdown
+[here](https://help.github.com/articles/organizing-information-with-tables/).
+Please keep the formatting of the table fairly clean (e.g. line up the pipe
+separators for each column), but that may get difficult with multiple groups
+pushing at once (not a big deal).
+
 Presentation Details
 --------------------
 
-Presentations are worth **10 points**. They should be **~5-10 minutes** in
+Presentations are worth **10 points**. They should be **\~5-10 minutes** in
 length and should include a few slides, which cover:
 
 -   Meeting details (what, when, where)
