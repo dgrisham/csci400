@@ -11,10 +11,10 @@ Preparation
 
 1.  Review this [list of local
     meetups](https://www.meetup.com/topics/computer-programming/us/co/denver/),
-    or search around to find others. There will be a thread on Piazza for
-    finding groups if you want to use that.
+    or search around to find others.
 2.  Find some classmates who want to attend the same meetup. Ideally, we'll have
-    3-5 students attend a meetup together.
+    3-5 students attend a meetup together. There will be a thread on Piazza for
+    finding groups if you don't have one.
 3.  Please **do not** select a 'hack' type of event. These tend to not be very
     interesting to attend just once (better if you're part of the community) and
     the reports on these events don't tend to be very informative.
